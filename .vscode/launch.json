@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - t1_lesson05_template",
+            "request": "launch",
+            "mainClass": "t1_lesson05_template"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lesson_4_Activity_Two",
+            "request": "launch",
+            "mainClass": "Lesson_4_Activity_Two"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lesson_4_Activity_One",
+            "request": "launch",
+            "mainClass": "Lesson_4_Activity_One"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - t1_lesson04_template",
+            "request": "launch",
+            "mainClass": "t1_lesson04_template"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lesson_3_Activity_Three",
+            "request": "launch",
+            "mainClass": "Lesson_3_Activity_Three"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lesson_3_Activity_One",
+            "request": "launch",
+            "mainClass": "Lesson_3_Activity_One"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - t1_lesson03_template",
+            "request": "launch",
+            "mainClass": "t1_lesson03_template"
+        }
+    ]
+}
