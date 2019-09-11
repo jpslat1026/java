@@ -7,6 +7,7 @@
 */
 
 import java.util.Scanner;
+import java.util.function.DoubleBinaryOperator;
 import java.lang.Math;
 
 class Lesson_5_Activity_One {
@@ -16,7 +17,13 @@ class Lesson_5_Activity_One {
          * Copy and paste your entire code to Code Runner to complete the activity, 
          * from the first import statement to the last bracket. 
         */
-        
+        Scanner scan = new Scanner(System.in);
+
+        Double x = scan.nextDouble();
+        Double y = scan.nextDouble();
+        Double c = x - y;
+        System.out.println(c);
+
 
 
     }

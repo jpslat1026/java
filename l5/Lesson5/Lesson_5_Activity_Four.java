@@ -24,6 +24,14 @@ class Lesson_5_Activity_Four {
          * from the first import statement to the last bracket. 
         */
 
+        Scanner scan = new Scanner(System.in);
+
+        System.out.println("Enter a price: ");
+        Double p = scan.nextDouble();
+        Double c = 20 - p;
+        System.out.println("Change from $20: $" + c);
+
+
 
     }
 }

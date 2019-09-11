@@ -2,6 +2,30 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Lesson_5_Activity_Four",
+            "request": "launch",
+            "mainClass": "Lesson_5_Activity_Four"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lesson_5_Activity_Three",
+            "request": "launch",
+            "mainClass": "Lesson_5_Activity_Three"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lesson_5_Activity_Two",
+            "request": "launch",
+            "mainClass": "Lesson_5_Activity_Two"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lesson_5_Activity_One",
+            "request": "launch",
+            "mainClass": "Lesson_5_Activity_One"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - t1_lesson05_template",
             "request": "launch",
             "mainClass": "t1_lesson05_template"

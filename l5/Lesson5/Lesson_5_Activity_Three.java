@@ -27,6 +27,12 @@ class Lesson_5_Activity_Three {
          * from the first import statement to the last bracket. 
         */
 
-
+        Scanner scan = new Scanner(System.in);
+        System.out.println("please enter the radius of your circle");
+        Double r = scan.nextDouble();
+        Double c = 2 * 3.14 * r;
+        Double a = 3.14 * r * r;
+        System.out.println("Circumference: " + c);
+        System.out.println("Area: " + a);
     }
 }
