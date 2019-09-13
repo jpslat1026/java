@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - time_converter",
+            "request": "launch",
+            "mainClass": "time_converter"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Lesson_10_Activity",
             "request": "launch",
             "mainClass": "Lesson_10_Activity"
