@@ -15,6 +15,12 @@ class testfile{
 
           //System.out.println();
 
+          int base = 2;
+int exponent = scan.nextInt();
+int answer = (int)Math.pow(base, exponent);
+if (answer <= 256)
+    System.out.println("exponent is 8 or less");
+
 
 
 

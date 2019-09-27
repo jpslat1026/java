@@ -2,6 +2,42 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Lesson_12_Activity_One",
+            "request": "launch",
+            "mainClass": "Lesson_12_Activity_One"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lesson_11_Activity_Four",
+            "request": "launch",
+            "mainClass": "Lesson_11_Activity_Four"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lesson_11_Activity_Three",
+            "request": "launch",
+            "mainClass": "Lesson_11_Activity_Three"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lesson_11_Activity_Two",
+            "request": "launch",
+            "mainClass": "Lesson_11_Activity_Two"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lesson_11_Activity_One",
+            "request": "launch",
+            "mainClass": "Lesson_11_Activity_One"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - t1_lesson11_template",
+            "request": "launch",
+            "mainClass": "t1_lesson11_template"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - time_converter",
             "request": "launch",
             "mainClass": "time_converter"
