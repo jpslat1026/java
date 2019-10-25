@@ -8,26 +8,17 @@ class testfile{
 
      public static void main (String str[]) throws IOException {
 
-          Scanner scan = new Scanner(System.in);
-          
-
-
-
-          //System.out.println();
-
-          int base = 2;
-int exponent = scan.nextInt();
-int answer = (int)Math.pow(base, exponent);
-if (answer <= 256)
-    System.out.println("exponent is 8 or less");
-
-
-
-
-
-
-
-
+          int x = 29 % 10;
+          if (x > 10)
+              System.out.println(1);
+          else if (x > 8)
+              System.out.println(2);
+          else if (x > 6)
+              System.out.println(3);
+          else if ( x > 4)
+              System.out.println(4);
+          else
+              System.out.println(5);
 
 
 
